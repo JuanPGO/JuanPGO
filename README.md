@@ -1,17 +1,17 @@
-<head>
-  <h2>
-    ¡Welcome to visit my page!
-  </h2>
-</head>
-<body>
-  <li> I’m Juan Pablo Gómez Arcila, I'm Industrial Engineer and currently a Systems Engineering student 👨‍💻. </li>
-  <li> I enjoy learning new technologies💻 and knowledge📖. </li>
-  <li> Social Media: 
-  </li>
-</body>
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=288AB6&width=435&lines=%C2%A1Welcome+to+my+GitHub+page!+;I+really+appreciate+your+interest.)](https://git.io/typing-svg)
+
+## About Me:
+<li>I’m Juan Pablo Gómez Arcila, I'm Industrial Engineer and currently a Systems Engineering student 👨‍💻.</li>
+<li>I enjoy learning new technologies💻 and knowledge📖.</li>
 
 ## Social Media:
-[![LinkedIn](https://img.shields.io/badge/Juan%20Pablo%20G%C3%B3mez%20Arcila-0077B5?style=for-the-badge&logo=LinkedIn&label=LinkedIn)]
+[![LinkedIn](https://img.shields.io/badge/Juan_Pablo_G%C3%B3mez_Arcila-0077B5?style=flat-square&logo=LinkedIn&label=LinkedIn)](https://www.linkedin.com/in/juan-pablo-gomez-arcila/)</br>
+[![Instagram](https://img.shields.io/badge/%40juanp.gom-E4405F?style=flat-square&logo=Instagram&label=Instagram)](https://www.instagram.com/juanp.gom/)</br>
+
+## Tech Skills:
+<table>
+  <tr></tr>
+</table>
 
 
 <!---
