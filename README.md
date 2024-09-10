@@ -1,14 +1,14 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=288AB6&width=435&lines=%C2%A1Welcome+to+my+GitHub+page!+;I+really+appreciate+your+interest.)](https://git.io/typing-svg)
 
-## About Me:
+## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" />
 <li>I’m Juan Pablo Gómez Arcila, I'm Industrial Engineer and currently a Systems Engineering student 👨‍💻.</li>
 <li>I enjoy learning new technologies💻 and knowledge📖.</li>
 
-## Social Media:
+## Social Media <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" align="center"/>
 [![LinkedIn](https://img.shields.io/badge/Juan_Pablo_G%C3%B3mez_Arcila-0077B5?style=flat-square&logo=LinkedIn&logoColor=0077B5&label=LinkedIn&labelColor=grey)](https://www.linkedin.com/in/juan-pablo-gomez-arcila/)</br>
 [![Instagram](https://img.shields.io/badge/%40juanp.gom-E4405F?style=flat-square&logo=Instagram&label=Instagram)](https://www.instagram.com/juanp.gom/)</br>
 
-## Tech Skills:
+## Tech Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" align="center"/>
 <table align="center">
   <!--- Start Languages table--->
   <tr>
@@ -43,9 +43,8 @@
   <tr>
     <td><a href="https://www.mysql.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" weight="40" height="40"></td>
     <td><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="Sqlite" weight="40" height="40"></a></td>
-    <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" weight="40" height="40"></a>
+    <td colspan="2" align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" weight="40" height="40"></a>
 </td>
-    <td><a><img></a></td>
   </tr>
   <!--- End Databases table--->
   <!--- Start IDEs table--->   
@@ -60,7 +59,8 @@
     <td><a href="https://eclipseide.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" weight="40" height="40"></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" weight="40" height="40"></a></td>
+    <td colspan="2" align="center"><a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" weight="40" height="40"></a></td>
+    <td colspan="2" align="center"><a href="https://docs.posit.co/guides.html#rstudio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="Rstudio" weight="40" height="40"></a></td>
   </tr>
   <!--- End IDEs table--->  
   <!--- Start Tools table---> 
@@ -92,7 +92,7 @@
   <!--- End Tools table---> 
 </table>
 
-## GitHub Stats 
+## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" align="center"/>
 
 <div align="center">
 
