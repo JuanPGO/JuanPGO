@@ -12,14 +12,17 @@
 <table align="center">
   <!--- Start Languages table--->
   <tr>
-    <th colspan="4" align=center><p>Languages</p></th>
-    <td rowspan="2" align="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" weight="200" height="100"></td>
+    <td colspan="4" align=center><p>Languages</p></td>
+    <td rowspan="3" align="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  height="150"></td>
   </tr>
   <tr>
     <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" weight="40" height="40"></a</td>
     <td><a href="https://www.oracle.com/java/technologies/downloads/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" weight="40" height="40"></a></td>
     <td><a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" weight="40" height="40"></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" weight="40" height="40"></a></td>    
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" weight="40" height="40"></a></td>   
+  </tr>
+  <tr>
+    <td colspan="4" align=center><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" weight="40" height="40"></a</td>   
   </tr>
   <!--- End Languages table--->
   <!--- Start Frameworks table--->
@@ -48,7 +51,7 @@
   <!--- Start IDEs table--->   
   <tr>
     <td colspan="4" align="center"><p>IDEs</p> </td>
-    <td rowspan="3" align="center"><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" weight=150 height=100></td>
+    <td rowspan="3" align="center"><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" height=130></td>
   </tr>
   <tr>
     <td><a href="https://code.visualstudio.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Vscode" weight="40" height="40"></a></td>
@@ -63,7 +66,7 @@
   <!--- Start Tools table---> 
   <tr>
     <td colspan="4" align="center"><p>Tools</p> </td>
-    <td rowspan="3" align="center"></td>
+    <td rowspan="4" align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" height="150"></td>
   </tr>
   <tr>
     <td><a href="https://git-scm.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" weight="40" height="40"></a></td>
@@ -76,7 +79,14 @@
     <td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" weight="40" height="40"></a></td>
     <td><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" weight="40" height="40"></a></td>
     <td><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" weight="40" height="40"></a></td>
-    <td><a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows" weight="40" height="40">
+    <td><a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" weight="40" height="40">
+</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" weight="40" height="40"></a></td>
+    <td><a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="Trello" weight="40" height="40"></a></td>
+    <td><a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" weight="40" height="40"></a></td>
+    <td><a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stackoverflow" weight="40" height="40"></a></td>
 </a></td>
   </tr>
   <!--- End Tools table---> 
@@ -86,8 +96,8 @@
 
 <div align="center">
 
-| ![JuanPGO's Stats](https://github-readme-stats.vercel.app/api?username=JuanPGO&theme=react&show_icons=true&hide_border=true&count_private=false)  | ![JuanPGO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPGO&theme=react&show_icons=true&hide_border=true&layout=compact)|
-| ------------- | ------------- |
+| ![JuanPGO's Stats](https://github-readme-stats.vercel.app/api?username=JuanPGO&theme=react&show_icons=true&hide_border=true&count_private=false)  | ![JuanPGO's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanPGO&theme=react&hide_border=true)| ![JuanPGO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPGO&theme=react&show_icons=true&hide_border=true&layout=compact)|
+| ------------- | ------------- | ------------- |
 
 </div>
 
