@@ -1,8 +1,9 @@
 
+
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=288AB6&width=435&lines=%C2%A1Welcome+to+my+GitHub+page!+;I+really+appreciate+your+interest.)](https://git.io/typing-svg)
 
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" />
-<li>I’m Juan Pablo Gómez Arcila, I'm Industrial Engineer and currently a Systems Engineering student 👨‍💻.</li>
+<img src="https://raw.githubusercontent.com/JuanPGO/JuanPGO/main/BannerProfile.png" alt="Banner with a short description about Juan Pablo Gómez Arcila">
 <li>I enjoy learning new technologies💻 and knowledge📖.</li>
 
 ## Social Media <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" align="center"/>
